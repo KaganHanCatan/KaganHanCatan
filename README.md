@@ -3,7 +3,7 @@ I'm Kagan, a data scientist and statistician 👨‍💻 working remotely since 
 
 Skills: Python / R / SQL / Machine Learning / Statistics 
 
-- 🔭 I’m currently working on [EasyMl](https://lnkd.in/eQbFb_jY) 
+- 🔭 I’m currently working on Data Quality project.
 - 🌱 I’m currently learning MlOps and Deep Learning 
 - 👯 I’m looking to collaborate on Web Application related to Data Science 
 - 💬 Ask me about Statistics and Data Science 
