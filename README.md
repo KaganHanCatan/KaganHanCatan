@@ -41,6 +41,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/KaganHanCatan/KaganHanCatan/output/snake.svg" alt="Snake animation" />
-
 ###
